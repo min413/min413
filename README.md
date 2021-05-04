@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-1일 1출석
+반가워연 👋
 
 <!--
 **min413/min413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
